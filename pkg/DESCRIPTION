@@ -1,0 +1,10 @@
+Package: rGSutil
+Version: 0.0-1
+Date: 2010-28-06
+Title: R interface to Google Storage for Developers
+Author: Carlos J. Gil Bellosta
+Maintainer: Carlos J. Gil Bellosta <cgb@datanalytics.com>
+Description: R interface to Google Storage for Developers
+Depends: rJython
+License: GPL-2
+URL: TBA
